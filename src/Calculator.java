@@ -7,10 +7,9 @@ public class Calculator {
         int d=15;
         int x=a+b;
         int y=c-d;
-        int z=c/a;
+        int z= c / a;
         System.out.println("Addition of two Numbers: " +x);
         System.out.println("Subtraction of two Numbers: " +y);
         System.out.println("Division of two Numbers is: " +z);
-
     }
 }
